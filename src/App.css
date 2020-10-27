@@ -3,3 +3,8 @@ body {
   font-family: "Ubuntu", sans-serif;
   padding: 30px 120px;
 }
+
+a {
+  text-decoration: none;
+  color: #f23b37;
+}
